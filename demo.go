@@ -1,6 +1,6 @@
-package main
+package Hello
 import "fmt"
-func main(){
+func Hello(){
     
     fmt.Println("111")
 
